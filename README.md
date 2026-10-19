@@ -27,8 +27,22 @@ NHN Academy에서 쌓은 웹 개발 경험을 바탕으로,
 LG AX SCHOOL에서 데이터 기반 의사결정과 AI 서비스 개발을 경험했습니다.
 새로 배운 기술을 기존 지식과 연결하며 개발의 폭을 넓혀가고 있습니다.
 
----
+### 🛠 Tech Stack
 
-**Backend** · Java / Spring Boot / Python / FastAPI  
-**AI & Data** · LangChain / FastMCP / RAG / Streamlit  
-**Web & Database** · React / Node.js / MySQL
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & Data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
