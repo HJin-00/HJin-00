@@ -1,80 +1,35 @@
-<div align="center">
+## 김현진 | Backend Developer
 
-<h2>안녕하세요 👋<br>일상의 불편함을 해결하는 서비스를 만들고 싶은 김현진입니다.</h2>
+일상의 불편함을 해결하는 서비스를 만들고 싶습니다.  
+Java·Spring Boot를 중심으로 백엔드를 공부하며, AI Agent 서비스도 개발했습니다.
+
+<h3>Tech Stack</h3>
 
 <p>
-Java와 Spring Boot를 중심으로 백엔드를 공부하고 있습니다.<br>
-Servlet/JSP와 Spring Boot를 활용한 웹 개발 경험이 있으며,<br>
-Python과 FastAPI를 활용한 AI 서비스 구현도 경험했습니다.
+  <b>Backend</b><br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
 <p>
-NHN Academy에서는 쇼핑몰과 협업 서비스 프로젝트를,<br>
-LG AX SCHOOL에서는 데이터 분석과 AI Agent 프로젝트를 진행했습니다.
-</p>
-
-<h3>🛠 Tech Stack</h3>
-
-<p><b>Backend</b></p>
-
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge" alt="Java">
-<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge" alt="JSP">
-<img src="https://img.shields.io/badge/Servlet-007396?style=for-the-badge" alt="Servlet">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
-
-<p><b>AI</b></p>
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge" alt="RAG">
-<img src="https://img.shields.io/badge/FastMCP-0066CC?style=for-the-badge" alt="FastMCP">
-</p>
-
-<p><b>Database &amp; Frontend</b></p>
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-</p>
-
-<p><b>DevOps</b></p>
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
-
-<h3>💻 Projects</h3>
-
-<p>
-<b><a href="https://github.com/HJin-00/LG-AX-SCHOOL-Core-Project">💧 정수기 계약 상담 AI</a></b><br>
-LangChain·RAG·FastMCP 기반 상담 Agent 개발 및 서비스 통합
+  <b>AI</b><br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/FastMCP-0066CC?style=flat-square" alt="FastMCP">
 </p>
 
 <p>
-<b><a href="https://github.com/HJin-00/dodream-auth">🔐 DoDream 인증 API</a></b><br>
-JWT 기반 사용자 인증 API 개발
+  <b>Database &amp; Tools</b><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-<p>
-<b><a href="https://github.com/HJin-00/LG-AX-SCHOOL-Mini-Project">📊 북미 세탁기 생산투자 전략 분석</a></b><br>
-무역 데이터 분석과 가설 검증, Streamlit 대시보드
-</p>
+### Selected Projects
 
-<p>
-<b><a href="https://github.com/HJin-00/nhn-academy-shoppingmall">🛒 쇼핑몰</a></b><br>
-Servlet/JSP 기반 회원·장바구니·주문·포인트 결제
-</p>
-
-<p>
-<b><a href="https://github.com/HJin-00/nhn-academy-miniDooray">📋 MiniDooray</a></b><br>
-Spring Boot 기반 미니 프로젝트
-</p>
-
-</div>
+| 프로젝트 | 주요 경험 |
+| --- | --- |
+| [정수기 계약 상담 AI](https://github.com/HJin-00/LG-AX-SCHOOL-Core-Project) | LangChain·RAG·FastMCP 기반 상담 Agent 개발 및 서비스 통합 |
+| [DoDream 인증 API](https://github.com/HJin-00/dodream-auth) | JWT 기반 사용자 인증 API 개발 |
+| [쇼핑몰](https://github.com/HJin-00/nhn-academy-shoppingmall) | Servlet/JSP 기반 회원·장바구니·주문·포인트 결제 구현 |
