@@ -39,6 +39,7 @@ LG AX SCHOOL에서는 데이터 분석과 AI Agent 프로젝트를 진행했습�
 
 | 프로젝트 | 주요 내용 |
 | --- | --- |
+| [DoDream 인증 API](https://github.com/HJin-00/dodream-auth) | JWT 기반 사용자 인증 API 개발 |
 | [정수기 계약 상담 AI](https://github.com/HJin-00/LG-AX-SCHOOL-Core-Project) | LangChain·RAG·MCP 기반 상담 Agent 개발 및 서비스 통합 |
 | [북미 세탁기 생산투자 전략 분석](https://github.com/HJin-00/LG-AX-SCHOOL-Mini-Project) | 무역 데이터 분석과 가설 검증, Streamlit 대시보드 |
 | [쇼핑몰](https://github.com/HJin-00/nhn-academy-shoppingmall) | Servlet/JSP 기반 회원·장바구니·주문·포인트 결제 |
