@@ -3,14 +3,19 @@
 일상의 불편함을 해결하는 서비스를 만들고 싶습니다.  
 Java·Spring Boot를 중심으로 백엔드를 공부하며, AI Agent 서비스도 개발했습니다.
 
-<h3>Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 <p>
   <b>Backend</b><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square" alt="Java">
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square" alt="JSP">
+  <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square" alt="Servlet">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
 <p>
@@ -21,8 +26,13 @@ Java·Spring Boot를 중심으로 백엔드를 공부하며, AI Agent 서비스�
 </p>
 
 <p>
-  <b>Database &amp; Tools</b><br>
+  <b>Database &amp; Frontend</b><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+</p>
+
+<p>
+  <b>DevOps</b><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
