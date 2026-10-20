@@ -12,6 +12,8 @@ LG AX SCHOOL에서는 데이터 분석과 AI Agent 프로젝트를 진행했습�
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
+![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,6 +24,11 @@ LG AX SCHOOL에서는 데이터 분석과 AI Agent 프로젝트를 진행했습�
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
+![FastMCP](https://img.shields.io/badge/FastMCP-0066CC?style=for-the-badge)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Database & Frontend**
 
